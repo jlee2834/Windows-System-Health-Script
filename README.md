@@ -14,6 +14,7 @@ This project contains a PowerShell script that generates a clean and readable sy
 
 ## Example Output
 ===============================
+
 SYSTEM HEALTH
 
 Computer Name : JACOB-LAPTOP
@@ -31,6 +32,7 @@ Disk Usage
 C: Used 124.39 GB | Free 351.61 GB
 
 ===============================
+
 CHECK COMPLETE
 
 
